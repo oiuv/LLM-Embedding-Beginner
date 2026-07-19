@@ -39,6 +39,15 @@
 - 中级挑战：多语言支持
 - 高级项目：实时推荐系统
 
+### 第六阶段：RAG 完整体系 (06-rag-complete/)
+- `01-chunking-strategies.py` - 文本分块策略（五种策略对比）
+- `02-vector-databases.py` - 向量数据库（FAISS/Chroma/Milvus 对比）
+- `03-rag-pipeline.py` - RAG Pipeline 完整实现
+- `04-embedding-models.py` - Embedding 模型对比与选型
+- `05-hybrid-search.py` - 混合检索（BM25 + 向量）
+- `06-retrieval-evaluation.py` - 检索评估指标（Recall/MRR/NDCG）
+- `07-multimodal-embedding.py` - 多模态 Embedding（CLIP）
+
 ## 🚀 快速开始
 
 ### 🎯 一键启动（推荐）
